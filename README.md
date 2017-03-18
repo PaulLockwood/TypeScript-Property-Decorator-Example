@@ -11,7 +11,6 @@ yarn run start
 
 ## Summary
 Using Microsoft's example code proved tricky.
-
 This repo the is simplest example I could create. It uses example code from this page: <https://www.typescriptlang.org/docs/handbook/decorators.html>
 
 ## Dependencies
