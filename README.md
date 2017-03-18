@@ -1,4 +1,4 @@
-# Simplest example for TypeScript Property Decorators
+# Simple example for TypeScript Property Decorators
 
 ## To Install/ Run:
 ```
