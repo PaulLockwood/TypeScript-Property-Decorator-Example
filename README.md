@@ -1,6 +1,6 @@
 # Simplest example for TypeScript Property Decorators
 
-## To run:
+## To Install/ Run:
 ```
 git clone https://github.com/PaulLockwood/TypeScript-Property-Decorator-Example.git
 cd TypeScript-Property-Decorator-Example
