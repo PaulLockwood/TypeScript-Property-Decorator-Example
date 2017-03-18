@@ -3,6 +3,7 @@
 ## To run:
 ```
 git clone https://github.com/PaulLockwood/TypeScript-Property-Decorator-Example.git
+cd TypeScript-Property-Decorator-Example
 yarn install
 yarn run build
 yarn run start
