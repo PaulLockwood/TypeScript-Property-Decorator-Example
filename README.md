@@ -10,7 +10,7 @@ yarn run start
 ```
 
 ## Summary
-Getting Microsoft's demo code is tricky.
+Using Microsoft's example code proved tricky.
 
 This repo the is simplest example I could create. It uses code from this page: <https://www.typescriptlang.org/docs/handbook/decorators.html>
 
