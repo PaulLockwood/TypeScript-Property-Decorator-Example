@@ -2,7 +2,7 @@
 
 ## To run:
 ```
-git clone <repo name>
+git clone https://github.com/PaulLockwood/TypeScript-Property-Decorator-Example.git
 yarn install
 yarn run build
 yarn run start
