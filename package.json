@@ -1,0 +1,21 @@
+{
+  "name": "node-metadata-poc",
+  "version": "0.0.1",
+  "description": "PoC for metadata to drive UI Rendering",
+  "main": "run-me-via-node.js",
+  "repository": "git@bitbucket.org:PaulLockwood/node-metadata-poc.git",
+  "author": "Paul Lockwood <dotnetchap@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc -p .",
+    "tsc_version": "tsc -v",
+    "test": "jest",
+    "start": "node run-me-via-node.js"
+  },
+  "dependencies": {
+    "reflect-metadata": "0.1.x"
+  },
+  "devDependencies": {
+    "typescript": "2.2.x"
+  }
+}
